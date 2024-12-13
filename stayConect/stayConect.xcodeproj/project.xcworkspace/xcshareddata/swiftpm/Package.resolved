@@ -1,0 +1,33 @@
+{
+  "originHash" : "f2fa3106bd34027f9c018c804a9e36f2ce0d983e849f2427f23d3d2f198de8b2",
+  "pins" : [
+    {
+      "identity" : "customsegmentedcontrol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Nia-khorbaladze/CustomSegmentedControl",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0b6b3dc6d3619df06544ceb3950f755279009475"
+      }
+    },
+    {
+      "identity" : "networkpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Irakli66/NetworkPackage.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2b024d4a6faca93035a199c8f7e3e16913a4f664"
+      }
+    },
+    {
+      "identity" : "simplekeychain",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/auth0/SimpleKeychain",
+      "state" : {
+        "revision" : "b694f155907b189bc82e93586695a26f558c742f",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}

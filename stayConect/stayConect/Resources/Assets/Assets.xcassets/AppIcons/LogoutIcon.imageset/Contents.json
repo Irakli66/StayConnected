@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "LogoutIcon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
